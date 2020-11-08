@@ -1,0 +1,15 @@
+Missing audiogroup for sound: 'bgmBattle01' - setting to default audio group
+Missing audiogroup for sound: 'bgmBattle02' - setting to default audio group
+Missing audiogroup for sound: 'bgmBattle03' - setting to default audio group
+Missing audiogroup for sound: 'bgmDungeon01' - setting to default audio group
+Missing audiogroup for sound: 'bgmDungeon02' - setting to default audio group
+Missing audiogroup for sound: 'bgmMatildasBow' - setting to default audio group
+Missing audiogroup for sound: 'bgmSceneHappy' - setting to default audio group
+Missing audiogroup for sound: 'bgmSceneMystery' - setting to default audio group
+Missing audiogroup for sound: 'bgmSceneSad' - setting to default audio group
+Missing audiogroup for sound: 'bgmSongForFlorence' - setting to default audio group
+Missing audiogroup for sound: 'bgmTheme' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown01' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown02' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown03' - setting to default audio group
+Missing audiogroup for sound: 'bgmTown04' - setting to default audio group

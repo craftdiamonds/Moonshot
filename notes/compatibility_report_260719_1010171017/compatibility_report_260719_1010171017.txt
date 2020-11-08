@@ -1,0 +1,16 @@
+Missing audiogroup for sound: 'mus_town01' - setting to default audio group
+Missing audiogroup for sound: 'mus_town02' - setting to default audio group
+Missing audiogroup for sound: 'mus_forest01' - setting to default audio group
+Missing audiogroup for sound: 'mus_forest02' - setting to default audio group
+Missing audiogroup for sound: 'mus_dungeon01' - setting to default audio group
+Missing audiogroup for sound: 'mus_dungeon02' - setting to default audio group
+Missing audiogroup for sound: 'mus_shop01' - setting to default audio group
+Missing audiogroup for sound: 'mus_shop02' - setting to default audio group
+Missing audiogroup for sound: 'mus_battle' - setting to default audio group
+Missing audiogroup for sound: 'mus_boss' - setting to default audio group
+Missing audiogroup for sound: 'mus_titlescreen' - setting to default audio group
+Missing audiogroup for sound: 'mus_jingle01' - setting to default audio group
+Missing audiogroup for sound: 'mus_jingle02' - setting to default audio group
+Missing audiogroup for sound: 'mus_jingle03' - setting to default audio group
+Missing audiogroup for sound: 'snd_levelup' - setting to default audio group
+Missing audiogroup for sound: 'snd_item' - setting to default audio group
