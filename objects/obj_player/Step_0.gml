@@ -1,22 +1,16 @@
-///Movement
-
 //Input
 key_right = keyboard_check((ord("D")))
 key_left = -keyboard_check((ord("A")))
-key_jump = keyboard_check((ord("W")))
+key_jump = keyboard_check_pressed((ord("W")))
 
 //React to inputs
-move = key_left + key_right;
+var move = key_left + key_right;
 hsp = move * movespeed;
-
 vsp = vsp + grav
 
 if keyboard_check_direct((ord("W"))){
 vsp = vsp - 0.05;
-} else {
-vsp = vsp + 0.1;
 }
-
 
 if (keyboard_check((ord("D")))){
 	face = 0;
@@ -32,7 +26,12 @@ if (hsp > 0.2){
 	} else {
 	run = 0;
 }
-	
+
+if(onGround){
+    if(key_jump){
+        vsp = jPower;
+    }
+}
 	
 if (place_meeting(x,y+1,obj_floor))
 {
@@ -62,9 +61,3 @@ if (place_meeting(x,y+vsp,obj_floor))
 	 vsp = 0;
 	}
 y += vsp;
-
-
-
-
-
-
