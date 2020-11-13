@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "spr_wall_goo",
-    "path": "sprites/spr_wall_goo/spr_wall_goo.yy",
+    "name": "spr_bullet",
+    "path": "sprites/spr_bullet/spr_bullet.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

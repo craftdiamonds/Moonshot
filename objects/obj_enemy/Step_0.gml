@@ -33,8 +33,4 @@ if (place_meeting(x,y+vsp,obj_floor))
     vsp = 0;
 }
 y = y + vsp;
-	
-if place_meeting(x, y, obj_bullet)
-    {
-    instance_destroy();
-  } 
+
