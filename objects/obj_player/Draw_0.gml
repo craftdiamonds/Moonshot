@@ -15,7 +15,3 @@ if invis == true && face == 1{
 sprite_index = spr_player_invis_l
 draw_sprite(spr_player_invis_l,1-5,x,y) 
 } 
-
-draw_text(300,300,alarm[0]);
-draw_text(350,350,jUsable);
-draw_text(100,300,jetpack);

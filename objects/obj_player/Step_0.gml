@@ -73,6 +73,7 @@ if (invis == true) {
 	}
 }
 
+//Calculating Death
 if (hp <= 0){
 	game_restart(); 
 }

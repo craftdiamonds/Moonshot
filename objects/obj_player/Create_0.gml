@@ -21,7 +21,7 @@ hp = 5;
 invis = false;
 iTimer = 100;
 
-//Jetpack
+//Jetpack Vars
 global.jetpack = true; 
 jetpack = false; 
 jTimer = 100; 
